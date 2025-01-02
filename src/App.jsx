@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef } from "react";
 import * as mobilenet from "@tensorflow-models/mobilenet";
 
 const App = () => {
