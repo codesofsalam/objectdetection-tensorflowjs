@@ -14,12 +14,7 @@ This site utilizes TensorFlow.js to run object detection directly in the browser
    cd objectdetection-tensorflowjs
    ```
 
-2. **Create Vite:**
-   ```bash
-   npm create vite@latest
-   ```
-
-3. **Install dependencies:**
+2. **Install dependencies:**
    ```bash
    npm install
    ```
