@@ -6,6 +6,11 @@ This project is an object detection site built using React and TensorFlow.js wit
 
 This site utilizes TensorFlow.js to run object detection directly in the browser using the MobileNet model. The site is built with React and Vite, providing a fast and modern development setup.
 
+### Prerequisites
+
+- Node.js
+- npm
+  
 ## Setup Instructions
 
 1. **Clone the repository:**
